@@ -26,7 +26,7 @@ I'm Jatin! I'm a **Android Developer**:iphone:, looking to solve **real-world pr
 ### 💼  Things that I'm currently working on: 
 * Data Structures and Algorithms 💫
 * Kotlin 
-* Back-end Development (node.js)
+* GO 
 * Some Personal Projects 😍
 * 🔜
 
