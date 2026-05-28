@@ -52,5 +52,6 @@ I like keeping things running, moving fast without breaking things, and figuring
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin887&theme=radical&hide_border=true" />
 </p>
+<p align="center"> <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" /> </p>
 
 <h4 align="center">Thanks for visiting! ✌️</h4>
