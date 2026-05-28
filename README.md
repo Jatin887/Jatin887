@@ -47,11 +47,10 @@ I like keeping things running, moving fast without breaking things, and figuring
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jatin887&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin887&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin887&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin887&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin887&theme=radical&hide_border=true" />
 </p>
 
 <h4 align="center">Thanks for visiting! ✌️</h4>
