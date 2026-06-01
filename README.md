@@ -10,7 +10,6 @@ I like keeping things running, moving fast without breaking things, and figuring
 [![LinkedIn](https://img.shields.io/badge/-JatinFulwani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-fulwani-b5a3661ba/)
 [![Gmail](https://img.shields.io/badge/-jatinfulwani8875-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jatinfulwani8875@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@jatin8875-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/jatin8875)
-[![HackerRank](https://img.shields.io/badge/-Jatin-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/jatinfulwani8875)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jatin887&style=flat)
 
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="life balance" align="right" width="460" height="auto" />
