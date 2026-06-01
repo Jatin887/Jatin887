@@ -1,6 +1,6 @@
 # Hey there! 👋😊
 
-I'm Jatin! Senior Software Engineer at **BalkanID**, building identity governance infrastructure on Kubernetes. Started as a founding intern in 2023, now leading a 5-person team.
+I'm Jatin! Senior Software Engineer at **BalkanID**, building identity governance infrastructure on Kubernetes. Started as a founding intern in 2023, now leading a engineering team.
 
 I like keeping things running, moving fast without breaking things, and figuring out how to use AI without letting it wreck the codebase.
 
